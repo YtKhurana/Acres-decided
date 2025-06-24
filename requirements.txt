@@ -1,1 +1,10 @@
 streamlit
+pandas
+folium
+streamlit-folium
+shapely
+pyproj
+scikit-learn
+geopy
+alphashape
+concave-hull
